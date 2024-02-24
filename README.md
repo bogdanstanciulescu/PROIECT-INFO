@@ -8,3 +8,4 @@
 <p>-Cel mai mic multiplu comun a 2 numere.</p>
 <p>-Divizorii unui număr.</p>
 <p>Programul este realizat de Stănciulescu Bogdan și Stamati Cătălina</p>
+![Screenshot 2024-02-24 223429](https://github.com/bogdanstanciulescu/PROIECT-INFO/assets/161162249/6c752524-090e-4fc8-83e3-d3295fcc23b5)
