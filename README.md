@@ -7,3 +7,4 @@
 <p>-Cel mai mare divizor comun a 2 numere.</p>
 <p>-Cel mai mic multiplu comun a 2 numere.</p>
 <p>-Divizorii unui număr.</p>
+<p>Programul este realizat de Stănciulescu Bogdan și Stamati Cătălina</p>
