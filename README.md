@@ -1,6 +1,6 @@
 # PROIECT-INFO
 Program operații matematice c++
-Programul va realiza următoarele operații matematice:
+Programul realizează următoarele operații matematice:
 -Suma cifrelor unui număr dat
 -Produsul cifrelor unui număr dat
 -Oglinditul unui număr
